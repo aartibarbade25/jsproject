@@ -23,7 +23,7 @@ border: 2px dashed white;
     /* width: 80px; */
     height: 60px;
     margin: 30px;
-    color: rgb(255, 255, 255);
+    color: white
     background-color: rgb(160, 12, 12);
     cursor: grab;
     display: flex;
