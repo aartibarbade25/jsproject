@@ -24,7 +24,7 @@ border: 2px dashed white;
     height: 60px;
     margin: 30px;
     color: white;
-    background-color: rgb(160, 12, 12);
+    background-color: rgb(255, 0, 0);
     cursor: grab;
     display: flex;
     align-items: center;
